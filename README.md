@@ -1,9 +1,10 @@
 ## Image Framer Export Script
-![IFET.png][Image Framer Export Script]
 
-The script along with the .psd template will make it easy to make frames for: [Image Framer jQuery Plugin][https://github.com/joonaspaakko/Image-Framer-jquery-plugin] 
+![Image Framer Export Script](IFET.png)
 
-You only need to make top and bottom texture for the frame and the template / sript will help you to export all 4 frame sizes to separate folders.
+The script along with the .psd template will make it easy to make frames for: [Image Framer jQuery Plugin](https://github.com/joonaspaakko/Image-Framer-jquery-plugin) 
+
+You only need to make top and bottom texture for the frame and the template / sript will help you to export all 4 frame sizes to separate folders in a **snap!**
 
 
 ## How to use the script
