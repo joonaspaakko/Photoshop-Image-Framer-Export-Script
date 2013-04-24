@@ -11,7 +11,7 @@ You only need to make top and bottom texture for the frame and the template / sr
 
 * Put `Image Framer Export.jsx` into: `{Photoshop_root}\Presets\Scripts\Image Framer Export.jsx`
   * If photoshop is already running, restart it.
-* Open up `Image Framer Export Template.psd` in photoshop.
+* Open `Image Framer Export Template.psd` in photoshop.
 * Double click `Edit frame image` smart object to edit the contents.
 * Create your frame texture and save the .psb file.
 * Get back to `Image Framer Export Template.psd` and run the script `File > Scripts > Image Framer Export.jsx`.
