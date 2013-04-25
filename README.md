@@ -20,4 +20,4 @@ You only need to make top and bottom texture for the frame and the template / sr
 * The script will `beep` when the exporting is complete.
 * You'll find the files/folders next to the `Image Framer Export Template.psd`. You will need to put them in `{your_website_root}/imageframer/frames/`
 
-**The script was tested in Photoshop cs 6 in os x 10.8.3**
+**The script was tested in Photoshop cs 3 and cs 6 in Mac.**
