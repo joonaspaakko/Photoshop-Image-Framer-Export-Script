@@ -4,7 +4,10 @@
 
 The script along with the .psd template will make it easy to make frames for: [Image Framer jQuery Plugin](https://github.com/joonaspaakko/Image-Framer-jquery-plugin)
 
-You only need to make top and bottom texture for the frame and the template / sript will help you to export all 4 frame sizes to separate folders in a **snap!**
+You only need to make top and bottom texture for the frame and the template & sript will help you to export all 4 frame sizes to separate folders in a **snap!**
+
+It takes approximately 4 minutes plus `{ the time it takes for you to create the texture }`, to create a frame with the teamplate and the script.
+
 
 **It should be noted that the .psd template also works with [slicy](http://macrabbit.com/slicy/).**
 
