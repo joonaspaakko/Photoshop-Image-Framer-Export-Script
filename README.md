@@ -6,7 +6,7 @@ The script along with the .psd template will make it easy to make frames for: [I
 
 You only need to make top and bottom texture for the frame and the template & sript will help you to export all 4 frame sizes to separate folders in a **snap!**
 
-It takes approximately 4 minutes plus `{ the time it takes for you to create the texture }`, to create a frame with the teamplate and the script.
+Depending on how long it takes for you to create the frame texture, it takes approximately 4 minutes to download the script package and create a frame with the script & template.
 
 
 **It should be noted that the .psd template also works with [slicy](http://macrabbit.com/slicy/).**
