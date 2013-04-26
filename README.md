@@ -9,7 +9,7 @@ You only need to make top and bottom texture for the frame and the template & sr
 Depending on how long it takes for you to create the frame texture, it takes approximately 4 minutes to download the script package and create a frame with the script & template.
 
 
-**It should be noted that the .psd template also works with [slicy](http://macrabbit.com/slicy/).**
+**It should be noted that the .psd template also works with [Slicy](http://macrabbit.com/slicy/).** _You should also know that if you want to use Slicy, the template, as it is, will not save the frame folders with the frame name. You'd have to do it manually add it in every folder for example: "yourFrame-size4". In that regard the script is slightly more convenient._ 
 
 ## How to use the script
 
