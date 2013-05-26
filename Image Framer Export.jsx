@@ -63,9 +63,14 @@ try {
         app.activeDocument.close( SaveOptions.DONOTSAVECHANGES );
 
         // When the deed is done, say BEEP!
+        /*
         if ( ( doc.layerSets.length - 1 ) == groupIndex ) {
             app.beep();
         }
+        */
+
+        // I realized that I like it better when it beeps after each save...
+        app.beep();
 
     }
 
@@ -124,6 +129,8 @@ function SavePNG( saveFile ){
     pngOpts.transparency = true;
     pngOpts.interlaced = false;
     pngOpts.quality = 100;
+    pngOpts.webSnap = 0;
+    includeProfile = true;
 
     activeDocument.exportDocument( new File( saveFile ), ExportType.SAVEFORWEB,pngOpts );
 
